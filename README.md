@@ -7,7 +7,7 @@ This repository is an example of a `svc` to be built with [filipeforattini/ff-ia
 | Language | Framework | Docker |
 |:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="React" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" title="React" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="React" width="40" height="40"/> |
-| 3 | 0.79 | 3-alpine |
+| 3.10 | 2.1 | 3.10-alpine |
 
 
 ## Environments
