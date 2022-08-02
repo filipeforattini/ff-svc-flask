@@ -17,3 +17,4 @@ ingress:
     domain: forattini.app
     letsencrypt:
       enable: true
+
