@@ -21,7 +21,7 @@ on:
         - prd
         - sbx
         - dry
-        
+
 jobs:
 
   SVC:
