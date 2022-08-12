@@ -1,3 +1,10 @@
+## [1.0.89](https://github.com/filipeforattini/ff-svc-flask/compare/v1.0.88...v1.0.89) (2022-08-12)
+
+
+### Bug Fixes
+
+* empty commit for testing ([3ec4ace](https://github.com/filipeforattini/ff-svc-flask/commit/3ec4ace7db41c06f8a9302bbef5c1a0cd56f1b15))
+
 ## [1.0.88](https://github.com/filipeforattini/ff-svc-flask/compare/v1.0.87...v1.0.88) (2022-08-12)
 
 
