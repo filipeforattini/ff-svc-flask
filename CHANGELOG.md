@@ -1,3 +1,24 @@
+## [1.0.96](https://github.com/filipeforattini/ff-svc-flask/compare/v1.0.95...v1.0.96) (2022-08-24)
+
+
+### Bug Fixes
+
+* empty commit for testing ([2a62c9c](https://github.com/filipeforattini/ff-svc-flask/commit/2a62c9cb759f6703197fdad53af5be66052f23e6))
+* empty commit for testing ([cee0adc](https://github.com/filipeforattini/ff-svc-flask/commit/cee0adc763aa6b9ade9e483a87cba5c67243de8d))
+* empty commit for testing ([6041441](https://github.com/filipeforattini/ff-svc-flask/commit/60414414f1092ed10f75d88aa3ce6286f5d77849))
+* empty commit for testing ([891c36e](https://github.com/filipeforattini/ff-svc-flask/commit/891c36e54ba9b5cab9e40f53538b94cfb2dd157a))
+* empty commit for testing ([c976983](https://github.com/filipeforattini/ff-svc-flask/commit/c976983c342f49e3030ed477d5edc7af24a8f57e))
+* empty commit for testing ([cd01c12](https://github.com/filipeforattini/ff-svc-flask/commit/cd01c1253b4a0fdfcb9930af64226cb4e20d40c2))
+* empty commit for testing ([5ed2bc2](https://github.com/filipeforattini/ff-svc-flask/commit/5ed2bc222e303850d3e658217f9baf3a5228832f))
+* empty commit for testing ([d9067f7](https://github.com/filipeforattini/ff-svc-flask/commit/d9067f79f59cf1e41995cfddcf1289594f67acf6))
+* empty commit for testing ([458267f](https://github.com/filipeforattini/ff-svc-flask/commit/458267f55c7c9d20c66e38ceb48f752b400bf2b8))
+* empty commit for testing ([e92cae6](https://github.com/filipeforattini/ff-svc-flask/commit/e92cae67bc3aa37128b24cd717005c3eeb697ef0))
+* empty commit for testing ([8f744a8](https://github.com/filipeforattini/ff-svc-flask/commit/8f744a805757c4a0b8ed30337d3680d51e77cb4b))
+* empty commit for testing ([5987f7f](https://github.com/filipeforattini/ff-svc-flask/commit/5987f7fa24fabd4bbc6b6fd4244e6537d1b075ce))
+* empty commit for testing ([0571d4b](https://github.com/filipeforattini/ff-svc-flask/commit/0571d4b66a730b4fe3e3c6f0b75f4fd33254f9d2))
+* empty commit for testing ([51def20](https://github.com/filipeforattini/ff-svc-flask/commit/51def203192d92393c60948aebfcec70b3cfaf54))
+* empty commit for testing ([3b48819](https://github.com/filipeforattini/ff-svc-flask/commit/3b48819b650ea650045df4191769ccf0c0e606f5))
+
 ## [1.0.95](https://github.com/filipeforattini/ff-svc-flask/compare/v1.0.94...v1.0.95) (2022-08-17)
 
 
